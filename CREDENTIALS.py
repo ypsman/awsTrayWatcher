@@ -1,0 +1,3 @@
+REGION = "####"
+KEYID = "####"
+KEYSECRET = "#####
